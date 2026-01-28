@@ -42,7 +42,8 @@ To run this project locally:
 
 ## 3. Output Screenshots
 
-![Task Manager UI](screenshots/preview-1.png) & (screenshots/preview-2.png) 
+![Task Manager UI](screenshots/preview-1.png)
+![Task Manager UI](screenshots/preview-2.png)
 *(Screenshot showing the Task List, Glassmorphism UI, and Custom Toast Notifications)*
 
 ## 4. Future Improvements
